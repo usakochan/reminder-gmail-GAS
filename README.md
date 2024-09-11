@@ -1,3 +1,3 @@
 # reminder
-send remind emails to participants who google calendar says will join.
+send reminder emails to participants who the google calendar says will join.
 以上
